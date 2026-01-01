@@ -9,7 +9,9 @@ Vanderbilt University <br>
 [Massey & Davis (1992)](./docs/masseydavis92_guide_to_stellar_ccd_photometry_iraf.pdf) <br>
 [Massey (1997)](./docs/massey97_guide_to_ccd_reductions_iraf.pdf) <br>
 [NASA ADS](https://ui.adsabs.harvard.edu/) <br>
+[SVO Filter Service](http://svo2.cab.inta-csic.es/theory/fps/)<br>
 
+<!-- Upcoming resources are commented out
 ### Week 2
 [Equatorial to Galactic coordinate transformation](./docs/leinert98_coordinates.pdf) <br>
 [Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
@@ -78,3 +80,4 @@ Vanderbilt University <br>
 [Observatory Locations](https://www.google.com/maps/d/u/0/edit?mid=1BMzRO1puXoGhZV7L0NCe6Qu2wXo4y6oW&ll=-0.16413101145116826%2C0&z=2) <br>
 [Gemini Exposure Time Calculators (ETCs)](https://www.gemini.edu/instrumentation/gmos/exposure-time-estimation) <br>
 [Las Cumbres ETC](https://exposure-time-calculator.lco.global/) <br>
+-->
