@@ -1,0 +1,225 @@
+fn,fnum,objname,filter,trimsec,biassec,fn_otzdf
+../Imaging/a001.fits,1,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a001_otzdf.fits
+../Imaging/a002.fits,2,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a002_otzdf.fits
+../Imaging/a003.fits,3,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a003_otzdf.fits
+../Imaging/a004.fits,4,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a004_otzdf.fits
+../Imaging/a005.fits,5,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a005_otzdf.fits
+../Imaging/a006.fits,6,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a006_otzdf.fits
+../Imaging/a007.fits,7,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a007_otzdf.fits
+../Imaging/a008.fits,8,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a008_otzdf.fits
+../Imaging/a009.fits,9,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a009_otzdf.fits
+../Imaging/a010.fits,10,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a010_otzdf.fits
+../Imaging/a011.fits,11,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a011_otzdf.fits
+../Imaging/a012.fits,12,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a012_otzdf.fits
+../Imaging/a013.fits,13,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a013_otzdf.fits
+../Imaging/a014.fits,14,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a014_otzdf.fits
+../Imaging/a015.fits,15,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a015_otzdf.fits
+../Imaging/a016.fits,16,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a016_otzdf.fits
+../Imaging/a017.fits,17,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a017_otzdf.fits
+../Imaging/a018.fits,18,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a018_otzdf.fits
+../Imaging/a019.fits,19,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a019_otzdf.fits
+../Imaging/a020.fits,20,FLAT,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a020_otzdf.fits
+../Imaging/a021.fits,21,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a021_otzdf.fits
+../Imaging/a022.fits,22,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a022_otzdf.fits
+../Imaging/a023.fits,23,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a023_otzdf.fits
+../Imaging/a024.fits,24,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a024_otzdf.fits
+../Imaging/a025.fits,25,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a025_otzdf.fits
+../Imaging/a026.fits,26,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a026_otzdf.fits
+../Imaging/a027.fits,27,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a027_otzdf.fits
+../Imaging/a028.fits,28,FLAT,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a028_otzdf.fits
+../Imaging/a029.fits,29,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a029_otzdf.fits
+../Imaging/a030.fits,30,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a030_otzdf.fits
+../Imaging/a031.fits,31,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a031_otzdf.fits
+../Imaging/a032.fits,32,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a032_otzdf.fits
+../Imaging/a033.fits,33,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a033_otzdf.fits
+../Imaging/a034.fits,34,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a034_otzdf.fits
+../Imaging/a035.fits,35,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a035_otzdf.fits
+../Imaging/a036.fits,36,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a036_otzdf.fits
+../Imaging/a037.fits,37,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a037_otzdf.fits
+../Imaging/a038.fits,38,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a038_otzdf.fits
+../Imaging/a039.fits,39,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a039_otzdf.fits
+../Imaging/a040.fits,40,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a040_otzdf.fits
+../Imaging/a041.fits,41,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a041_otzdf.fits
+../Imaging/a042.fits,42,FLAT,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a042_otzdf.fits
+../Imaging/a043.fits,43,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a043_otzdf.fits
+../Imaging/a044.fits,44,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a044_otzdf.fits
+../Imaging/a045.fits,45,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a045_otzdf.fits
+../Imaging/a046.fits,46,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a046_otzdf.fits
+../Imaging/a047.fits,47,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a047_otzdf.fits
+../Imaging/a048.fits,48,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a048_otzdf.fits
+../Imaging/a049.fits,49,FLAT,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a049_otzdf.fits
+../Imaging/a050.fits,50,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a050_otzdf.fits
+../Imaging/a051.fits,51,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a051_otzdf.fits
+../Imaging/a052.fits,52,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a052_otzdf.fits
+../Imaging/a053.fits,53,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a053_otzdf.fits
+../Imaging/a054.fits,54,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a054_otzdf.fits
+../Imaging/a055.fits,55,FLAT,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a055_otzdf.fits
+../Imaging/a056.fits,56,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a056_otzdf.fits
+../Imaging/a057.fits,57,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a057_otzdf.fits
+../Imaging/a058.fits,58,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a058_otzdf.fits
+../Imaging/a059.fits,59,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a059_otzdf.fits
+../Imaging/a060.fits,60,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a060_otzdf.fits
+../Imaging/a061.fits,61,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a061_otzdf.fits
+../Imaging/a062.fits,62,FLAT,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a062_otzdf.fits
+../Imaging/a063.fits,63,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a063_otzdf.fits
+../Imaging/a064.fits,64,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a064_otzdf.fits
+../Imaging/a065.fits,65,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a065_otzdf.fits
+../Imaging/a066.fits,66,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a066_otzdf.fits
+../Imaging/a067.fits,67,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a067_otzdf.fits
+../Imaging/a068.fits,68,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a068_otzdf.fits
+../Imaging/a069.fits,69,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a069_otzdf.fits
+../Imaging/a070.fits,70,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a070_otzdf.fits
+../Imaging/a071.fits,71,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a071_otzdf.fits
+../Imaging/a072.fits,72,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a072_otzdf.fits
+../Imaging/a073.fits,73,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a073_otzdf.fits
+../Imaging/a074.fits,74,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a074_otzdf.fits
+../Imaging/a075.fits,75,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a075_otzdf.fits
+../Imaging/a076.fits,76,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a076_otzdf.fits
+../Imaging/a077.fits,77,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a077_otzdf.fits
+../Imaging/a078.fits,78,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a078_otzdf.fits
+../Imaging/a079.fits,79,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a079_otzdf.fits
+../Imaging/a080.fits,80,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a080_otzdf.fits
+../Imaging/a081.fits,81,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a081_otzdf.fits
+../Imaging/a082.fits,82,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a082_otzdf.fits
+../Imaging/a083.fits,83,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a083_otzdf.fits
+../Imaging/a084.fits,84,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a084_otzdf.fits
+../Imaging/a085.fits,85,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a085_otzdf.fits
+../Imaging/a086.fits,86,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a086_otzdf.fits
+../Imaging/a087.fits,87,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a087_otzdf.fits
+../Imaging/a088.fits,88,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a088_otzdf.fits
+../Imaging/a089.fits,89,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a089_otzdf.fits
+../Imaging/a090.fits,90,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a090_otzdf.fits
+../Imaging/a091.fits,91,PG1633+099,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a091_otzdf.fits
+../Imaging/a092.fits,92,PG1633+099,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a092_otzdf.fits
+../Imaging/a093.fits,93,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a093_otzdf.fits
+../Imaging/a094.fits,94,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a094_otzdf.fits
+../Imaging/a095.fits,95,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a095_otzdf.fits
+../Imaging/a096.fits,96,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a096_otzdf.fits
+../Imaging/a097.fits,97,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a097_otzdf.fits
+../Imaging/a098.fits,98,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a098_otzdf.fits
+../Imaging/a099.fits,99,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a099_otzdf.fits
+../Imaging/a100.fits,100,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a100_otzdf.fits
+../Imaging/a101.fits,101,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a101_otzdf.fits
+../Imaging/a102.fits,102,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a102_otzdf.fits
+../Imaging/a103.fits,103,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a103_otzdf.fits
+../Imaging/a104.fits,104,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a104_otzdf.fits
+../Imaging/a105.fits,105,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a105_otzdf.fits
+../Imaging/a106.fits,106,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a106_otzdf.fits
+../Imaging/a107.fits,107,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a107_otzdf.fits
+../Imaging/a108.fits,108,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a108_otzdf.fits
+../Imaging/a109.fits,109,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a109_otzdf.fits
+../Imaging/a110.fits,110,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a110_otzdf.fits
+../Imaging/a111.fits,111,BIAS,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a111_otzdf.fits
+../Imaging/a112.fits,112,PV Cep,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a112_otzdf.fits
+../Imaging/a113.fits,113,PV Cep,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a113_otzdf.fits
+../Imaging/a114.fits,114,PV Cep,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a114_otzdf.fits
+../Imaging/a115.fits,115,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a115_otzdf.fits
+../Imaging/a116.fits,116,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a116_otzdf.fits
+../Imaging/a117.fits,117,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a117_otzdf.fits
+../Imaging/a118.fits,118,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a118_otzdf.fits
+../Imaging/a119.fits,119,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a119_otzdf.fits
+../Imaging/a120.fits,120,PV Cep,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a120_otzdf.fits
+../Imaging/a121.fits,121,PV Cep,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a121_otzdf.fits
+../Imaging/a122.fits,122,PV Cep,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a122_otzdf.fits
+../Imaging/a123.fits,123,PV Cep,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a123_otzdf.fits
+../Imaging/a124.fits,124,PV Cep,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a124_otzdf.fits
+../Imaging/a125.fits,125,PV Cep,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a125_otzdf.fits
+../Imaging/a126.fits,126,PV Cep,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a126_otzdf.fits
+../Imaging/a127.fits,127,PV Cep,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a127_otzdf.fits
+../Imaging/a128.fits,128,PV Cep,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a128_otzdf.fits
+../Imaging/a129.fits,129,PV Cep,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a129_otzdf.fits
+../Imaging/a130.fits,130,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a130_otzdf.fits
+../Imaging/a131.fits,131,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a131_otzdf.fits
+../Imaging/a132.fits,132,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a132_otzdf.fits
+../Imaging/a133.fits,133,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a133_otzdf.fits
+../Imaging/a134.fits,134,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a134_otzdf.fits
+../Imaging/a135.fits,135,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a135_otzdf.fits
+../Imaging/a136.fits,136,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a136_otzdf.fits
+../Imaging/a137.fits,137,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a137_otzdf.fits
+../Imaging/a138.fits,138,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a138_otzdf.fits
+../Imaging/a139.fits,139,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a139_otzdf.fits
+../Imaging/a142.fits,142,Michael 1,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a142_otzdf.fits
+../Imaging/a143.fits,143,Michael 1,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a143_otzdf.fits
+../Imaging/a144.fits,144,Michael 1,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a144_otzdf.fits
+../Imaging/a145.fits,145,Michael 1,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a145_otzdf.fits
+../Imaging/a146.fits,146,Michael 1,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a146_otzdf.fits
+../Imaging/a147.fits,147,Michael 1,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a147_otzdf.fits
+../Imaging/a148.fits,148,Michael 1,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a148_otzdf.fits
+../Imaging/a149.fits,149,Michael 1,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a149_otzdf.fits
+../Imaging/a150.fits,150,Michael 1,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a150_otzdf.fits
+../Imaging/a151.fits,151,Michael 1,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a151_otzdf.fits
+../Imaging/a153.fits,153,NGC6823,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a153_otzdf.fits
+../Imaging/a154.fits,154,NGC6823,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a154_otzdf.fits
+../Imaging/a155.fits,155,NGC6823,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a155_otzdf.fits
+../Imaging/a156.fits,156,NGC6823,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a156_otzdf.fits
+../Imaging/a157.fits,157,NGC6823,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a157_otzdf.fits
+../Imaging/a158.fits,158,NGC6823,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a158_otzdf.fits
+../Imaging/a159.fits,159,NGC6823,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a159_otzdf.fits
+../Imaging/a160.fits,160,NGC6823,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a160_otzdf.fits
+../Imaging/a161.fits,161,NGC6823,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a161_otzdf.fits
+../Imaging/a162.fits,162,NGC6823,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a162_otzdf.fits
+../Imaging/a163.fits,163,NGC6823,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a163_otzdf.fits
+../Imaging/a165.fits,165,M16,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a165_otzdf.fits
+../Imaging/a166.fits,166,M16,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a166_otzdf.fits
+../Imaging/a167.fits,167,M16,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a167_otzdf.fits
+../Imaging/a168.fits,168,M16,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a168_otzdf.fits
+../Imaging/a169.fits,169,M16,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a169_otzdf.fits
+../Imaging/a170.fits,170,M16,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a170_otzdf.fits
+../Imaging/a171.fits,171,M16,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a171_otzdf.fits
+../Imaging/a172.fits,172,M16,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a172_otzdf.fits
+../Imaging/a173.fits,173,M16,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a173_otzdf.fits
+../Imaging/a174.fits,174,M16,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a174_otzdf.fits
+../Imaging/a175.fits,175,M16,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a175_otzdf.fits
+../Imaging/a176.fits,176,M16,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a176_otzdf.fits
+../Imaging/a177.fits,177,M16,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a177_otzdf.fits
+../Imaging/a178.fits,178,M16,Ha,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a178_otzdf.fits
+../Imaging/a179.fits,179,M16,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a179_otzdf.fits
+../Imaging/a180.fits,180,M16,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a180_otzdf.fits
+../Imaging/a181.fits,181,M16,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a181_otzdf.fits
+../Imaging/a183.fits,183,NGC7006,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a183_otzdf.fits
+../Imaging/a184.fits,184,NGC7006,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a184_otzdf.fits
+../Imaging/a185.fits,185,NGC7006,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a185_otzdf.fits
+../Imaging/a186.fits,186,NGC7006,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a186_otzdf.fits
+../Imaging/a187.fits,187,NGC7006,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a187_otzdf.fits
+../Imaging/a188.fits,188,NGC7006,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a188_otzdf.fits
+../Imaging/a189.fits,189,NGC7006,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a189_otzdf.fits
+../Imaging/a190.fits,190,NGC7006,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a190_otzdf.fits
+../Imaging/a191.fits,191,NGC7006,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a191_otzdf.fits
+../Imaging/a192.fits,192,NGC7006,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a192_otzdf.fits
+../Imaging/a194.fits,194,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a194_otzdf.fits
+../Imaging/a195.fits,195,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a195_otzdf.fits
+../Imaging/a196.fits,196,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a196_otzdf.fits
+../Imaging/a197.fits,197,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a197_otzdf.fits
+../Imaging/a198.fits,198,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a198_otzdf.fits
+../Imaging/a199.fits,199,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a199_otzdf.fits
+../Imaging/a200.fits,200,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a200_otzdf.fits
+../Imaging/a201.fits,201,SERVICE,,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a201_otzdf.fits
+../Imaging/a202.fits,202,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a202_otzdf.fits
+../Imaging/a203.fits,203,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a203_otzdf.fits
+../Imaging/a204.fits,204,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a204_otzdf.fits
+../Imaging/a205.fits,205,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a205_otzdf.fits
+../Imaging/a206.fits,206,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a206_otzdf.fits
+../Imaging/a207.fits,207,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a207_otzdf.fits
+../Imaging/a208.fits,208,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a208_otzdf.fits
+../Imaging/a209.fits,209,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a209_otzdf.fits
+../Imaging/a210.fits,210,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a210_otzdf.fits
+../Imaging/a211.fits,211,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a211_otzdf.fits
+../Imaging/a212.fits,212,M101,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a212_otzdf.fits
+../Imaging/a213.fits,213,M101,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a213_otzdf.fits
+../Imaging/a214.fits,214,M101,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a214_otzdf.fits
+../Imaging/a215.fits,215,M101,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a215_otzdf.fits
+../Imaging/a216.fits,216,M101,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a216_otzdf.fits
+../Imaging/a217.fits,217,M101,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a217_otzdf.fits
+../Imaging/a218.fits,218,M101,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a218_otzdf.fits
+../Imaging/a219.fits,219,M101,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a219_otzdf.fits
+../Imaging/a220.fits,220,M101,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a220_otzdf.fits
+../Imaging/a237.fits,237,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a237_otzdf.fits
+../Imaging/a238.fits,238,PG1633+099,U,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a238_otzdf.fits
+../Imaging/a239.fits,239,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a239_otzdf.fits
+../Imaging/a240.fits,240,PG1633+099,B,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a240_otzdf.fits
+../Imaging/a241.fits,241,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a241_otzdf.fits
+../Imaging/a242.fits,242,PG1633+099,V,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a242_otzdf.fits
+../Imaging/a243.fits,243,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a243_otzdf.fits
+../Imaging/a244.fits,244,PG1633+099,R,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a244_otzdf.fits
+../Imaging/a245.fits,245,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a245_otzdf.fits
+../Imaging/a246.fits,246,PG1633+099,I,"[:53, 1:2048]","[54:2101, 1:2048]",../Reduced/a246_otzdf.fits
